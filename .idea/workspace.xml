@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f37cd77-18c7-48c9-b506-8cc6080a88f8" name="Changes" comment="1st try">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/output.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/apartment.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/apartment2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg-intro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/customer1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/customer2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/customer3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/description.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/family.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/house.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/key.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/payments.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/property1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/property2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/property3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/property4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/property5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/property6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/receipt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/stars.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2H4iee8sBC2eOWy3nWqPRaWAC1E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f37cd77-18c7-48c9-b506-8cc6080a88f8" name="Changes" comment="" />
+      <created>1667550853152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667550853152</updated>
+      <workItem from="1667550857300" duration="59116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st try" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st try" />
+  </component>
+</project>
